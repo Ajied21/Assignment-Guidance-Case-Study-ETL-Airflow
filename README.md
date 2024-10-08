@@ -21,7 +21,7 @@ Penggunaan:
 
 randomuser.me sering digunakan oleh pengembang untuk:
 
-- Menguji aplikasi dengan data pengguna palsu.
+- Menguji aplikasi dengan data dummy.
 - Membuat prototipe dan demo tanpa harus menggunakan data nyata.
 - Mempercepat proses pengembangan frontend dan backend dengan memberikan data yang relevan dan bervariasi.
 
