@@ -28,7 +28,10 @@ from resources.Load_data import load_data_to_sqlite
                                                             adapun format yang disarankan (csv, json, xml)"),
         "Row_Count": Param(100, type="integer", description="Masukkan jumlah baris data yang ingin diambil dan bebas mau berapa aja,\
                                                             contoh: 100"),
-    }
+    },
+    tags=[
+        "ETL_with_SQLite_Ajied",
+    ]
 )
 
 
